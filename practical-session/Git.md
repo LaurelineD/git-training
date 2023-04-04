@@ -19,7 +19,13 @@ git clone git@github.com:barriern/git-class.git
 
 # First commit
 
-Go in the directory and type:
+Go in the directory:
+
+```
+cd git-class
+```
+
+and type:
 
 ```
 git status
